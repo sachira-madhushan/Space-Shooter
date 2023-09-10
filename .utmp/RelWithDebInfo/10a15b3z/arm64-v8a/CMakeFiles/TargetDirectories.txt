@@ -1,0 +1,5 @@
+F:/Unity Projects/Space Shooter/.utmp/RelWithDebInfo/10a15b3z/arm64-v8a/CMakeFiles/edit_cache.dir
+F:/Unity Projects/Space Shooter/.utmp/RelWithDebInfo/10a15b3z/arm64-v8a/CMakeFiles/rebuild_cache.dir
+F:/Unity Projects/Space Shooter/.utmp/RelWithDebInfo/10a15b3z/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+F:/Unity Projects/Space Shooter/.utmp/RelWithDebInfo/10a15b3z/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+F:/Unity Projects/Space Shooter/.utmp/RelWithDebInfo/10a15b3z/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
